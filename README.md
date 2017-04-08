@@ -1,2 +1,2 @@
 # staches.github.io
-The website of the stache federation
+The website of the stache empire
